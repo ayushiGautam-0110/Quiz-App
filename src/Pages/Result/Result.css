@@ -1,0 +1,21 @@
+.result-container{
+  
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 60vh;
+        text-align: center;
+  font-family: "Pacifico", cursive;
+  margin: 80px;
+
+      
+    
+}
+
+
+.score-head{
+    padding: 20px;
+    font-size: 4em;
+    
+}

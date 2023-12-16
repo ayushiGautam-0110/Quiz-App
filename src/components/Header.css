@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Bubbles&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&display=swap");
+.title {
+  /* text-transform: uppercase; */
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 8px;
+  border-style: groove;
+  border-color: #432818;
+  border-radius: 20px;
+  font-size: 8vw;
+  font-family: "Ephesis", sans-serif;
+  cursor: pointer;
+  /* -webkit-text-stroke: 0.01px  #656d4a; */
+  /* color:black ; */
+  color: #432818;
+
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  /* margin: 20px; */
+}
+
+.header {
+  width: 98.5%;
+  display: block;
+  /* height: 10x; */
+}
+
+.divider {
+  /* margin: 10px; */
+  /* color: black; */
+  /* height: 2px; */
+  width: 100%;
+  background-color: black;
+}
